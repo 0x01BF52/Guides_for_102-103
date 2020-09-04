@@ -130,7 +130,11 @@
 
 If you see this, click `OK` and you're good to go!
 
-Now you can run your COMP103 assignment in IntelliJ by doing this:![image-20200904120133222](./pics/image-20200904120133222.png)
+Now you can run your COMP103 assignment in IntelliJ by doing this:
+
+
+
+![image-20200904120133222](./pics/image-20200904120133222.png)
 
 However, if your code contains problems, you may fail to compile your program.
 
